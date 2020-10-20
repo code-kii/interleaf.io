@@ -1,0 +1,17 @@
+{
+  "document":
+  {
+    "nodes":
+    [
+      {
+        "object": "block",
+        "type": "paragraph",
+        "leaves" : [
+          {
+            "text": "A sample line of code."
+          }
+        ]
+      }
+    ]
+  }
+}
